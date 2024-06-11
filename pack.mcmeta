@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": "By Ctarron224. Sends a chat message when an important item has despawned or was destroyed."
+    }
+}

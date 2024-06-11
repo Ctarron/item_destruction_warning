@@ -1,0 +1,1 @@
+scoreboard objectives add ctarron_destruction_warning_pickupDelay dummy
