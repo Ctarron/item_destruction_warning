@@ -1,1 +1,1 @@
-$say ☢ ➡ $(id) $(name)
+$tellraw @a [{"text":"☢ ➡ $(id) $(name)"}]
